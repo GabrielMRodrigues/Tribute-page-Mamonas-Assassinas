@@ -1,0 +1,44 @@
+    body {
+        font-family: Helvetica;
+        background-color: #ddd;
+        padding: 35px;
+    }
+
+    .container {
+        padding: 50px 50px;
+        background-color: #000;
+        color: #ffffff;
+    }
+
+    .cabeçalho {
+        text-align: center;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .quote {
+        padding: 10px;
+        font-size: 30px;
+        font-weight: bold;
+        font-family: cursive;
+        background-color: #292b335e;
+        border-radius: 5px;
+    }
+
+    .quote blockquote {
+        text-align: center;
+    }
+
+    .quote p {
+        font-size: 20px;
+    }
+
+    .img-show {
+        text-align: center;
+    }
+
+    .curiosidades li {
+        padding-bottom: 10px;
+    }
